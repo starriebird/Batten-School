@@ -467,6 +467,16 @@ h4{
 
 /*UI Buttons*/
 
+
+.mainContent .btn-group{
+  margin-bottom:5em;
+}
+
+.mainContent .btn-group{
+  margin-top:2em;
+}
+
+
 .btn-group button {
   background-color: #E57200;
   border: 1px solid #BC5B02;
