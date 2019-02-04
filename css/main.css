@@ -331,10 +331,10 @@ color:white;
 }
 
 .topnav ul .dropdown a{
-text-transform: none;
-color:#000;
-padding:none;
-display: block;
+    text-transform: none;
+    color:#000;
+    padding:none;
+    display: block;
     padding: 0px 0px;
     text-decoration: none;
     font-size: 11px;
@@ -369,7 +369,7 @@ border:none;
 }
 
 /* Change the color of links on hover */
-.topnav a:hover {
+.topnav .active, .topnav a:hover {
   border-bottom: 3px solid #E57200;
   color: black;
 }
