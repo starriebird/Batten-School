@@ -328,6 +328,7 @@ color:white;
   float: left;
   display: block;
   width:150px;
+  margin-bottom:.5em;
 }
 
 .topnav ul .dropdown a{
@@ -350,8 +351,9 @@ border:none;
   }
 
 .topnav ul .dropdown {
-
+  margin-top:1em;
   display: none;
+
 }
 
 
@@ -403,6 +405,7 @@ border:none;
 .tab {
   overflow: hidden;
   background-color: #002359;
+  margin-top: 3em;
 }
 
 /* Style the buttons that are used to open the tab content */
