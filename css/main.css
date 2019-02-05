@@ -606,8 +606,23 @@ list-style: none;
   padding-top: 60px;
 }
 
+.sidenav p a{
 
-.sidenav a {
+  color:#fff;
+  padding:0 0 0 0;
+  text-transform: none;
+}
+
+
+.sidenav p{
+
+  color:#fff;
+  margin-left:32px;
+}
+
+
+
+.sidenav a{
   padding: 8px 8px 8px 32px;
   text-decoration: none;
   font-size: 13px;
@@ -648,6 +663,12 @@ list-style: none;
   color:#e57200;
 }
 
+
+.sidenav #sublinks a{
+color:#4d6d98;
+font-size: 12px;
+padding: 0 0 3px 0;
+}
 
 
 
